@@ -24,7 +24,7 @@ size: 132,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-UnitPromotionIcons/Stab Own Third Eye
+UnitPromotionIcons/Stab Third Eye
   rotate: false
   xy: 0, 0
   size: 100, 100
