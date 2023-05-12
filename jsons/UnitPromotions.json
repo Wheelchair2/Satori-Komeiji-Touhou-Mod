@@ -1,0 +1,11 @@
+[	
+	{
+		"name": "Satori Race",
+		"uniques": ["Can move after attacking", "Access to special promotions"]
+	},
+	{
+		"name": "Stab Own Third Eye",
+		"prerequisites": ["Satori Race"],
+		"uniques": ["Automation is a primary action", "[+70]% Strength when attacking", "[-50]% Strength when defending"]
+	}
+]
