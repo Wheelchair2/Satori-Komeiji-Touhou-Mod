@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Chireiden",
+		"leaderName": "Satori Komeiji",
+		"adjective": ["satori"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "I am Satori Komeiji, Mistress of the Palace of the Earth Spirits, Chireiden. I am able to read minds, as a 'satori.' Your IP Address is 150.248.18.82, and you live at... just kidding.",
+		"startIntroPart2": "May you help the satori race prosper!",
+		"declaringWar": "Rin would like to take your corpse.",
+		"attacked": "Just as I expected...",
+		"defeated": "So this is the fate of the satori race, after all...",
+		"introduction": "Nice to meet you, my future rival.",
+		"neutralHello": "Okuu! Bring some tea for our guest.",
+		"hateHello": "Just to remind you, I can read what you're thinking.",
+		"tradeRequest": "I know you won't accept; however, I am going to kick your balls if so.",
+		"outerColor": [252,224,254],
+		"innerColor": [168,202,218],
+		"uniqueName": "Mind-Reading Satori Race",
+		"uniqueText": "All Land Units may receive the Promotion 'Stab Your Own Third Eye' upon leveling up. All Land Units can move after attacking. Cities are named after places that no longer exists, except for Miss Satori's Palace",
+		"uniques": ["[Land] units gain the [Satori Race] promotion"],
+		"cities": ["Palace Of The Earth Spirits","Stabiae","Chanchan","Bannack","Consonno","Florida Lost City","Kolmanskop","Trellech","Humberstone","Akrotiri","Taxila","Pyramiden","Merv","Cahokia,","Mologa","Neversink","Hallsands","Lukangol"]
+	},
+]
