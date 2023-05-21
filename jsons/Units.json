@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Test Unit",
+		"uniqueTo": "Chireiden",
+		"replaces": "Warrior"
+		"uniques": ["Can transform to [Scout]"]
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 75,
+	}
+	{
+		"name": "Test Unit 2",
+		"uniqueTo": "Chireiden",
+		"replaces":"Scout"
+		"uniques": ["Can transform to [Warrior]"]
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 15,
+		"cost": 75,
+	},
+]
+
