@@ -31,3 +31,66 @@ UnitPromotionIcons/Stab Third Eye
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+game3.png
+size: 800,100
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Eternal Furnace
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Underground Mining
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Soul-Fueled Furnace
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pen of Palace Pets
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tea-Making House
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palace on the Ground
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Okuu's Nuclear Reactor
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sharpened Blades
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
