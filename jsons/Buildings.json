@@ -15,7 +15,7 @@
 		"cost": 75,
 		"hurryCostModifier": 25,
 		"maintenance": 0
-		"uniques": ["[+12]% Yield from every [Mine]"]
+		"uniques": ["[+15]% Yield from every [Mine]"]
 		"requiredTech": "Iron Working"
 	},
 	{
