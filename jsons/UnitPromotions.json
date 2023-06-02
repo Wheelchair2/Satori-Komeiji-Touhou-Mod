@@ -8,5 +8,9 @@
 		"prerequisites": ["Satori Race"],
 		"uniques": ["Automation is a primary action", "[+70]% Strength when attacking", "[-50]% Strength when defending"]
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
+	},
+	{
+		"name": "Sharpened Blades",
+		"uniques": ["[+20] Strength"]
 	}
 ]
