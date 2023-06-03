@@ -6,11 +6,11 @@
 	{
 		"name": "Stab Third Eye",
 		"prerequisites": ["Satori Race"],
-		"uniques": ["Automation is a primary action", "+[70]% Strength when attacking", "+[50]% Strength when defending"]
-		"unitTypes": ["Sword", "Ranged", "Archer", "Gunpowder", "Mounted", "Armored", "Fighter", "Bomber", "Helicopter"],
+		"uniques": ["Automation is a primary action", "[+70]% Strength when attacking", "[-50]% Strength when defending"]
+		"unitTypes": ["Sword", "Ranged", "Archery", "Gunpowder", "Mounted", "Armored", "Fighter", "Bomber", "Helicopter"],
 	},
 	{
 		"name": "Sharpened Blades",
-		"uniques": ["+[20]% Strength"]
+		"uniques": ["[+20]% Strength"]
 	}
 ]
