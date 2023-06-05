@@ -6,7 +6,7 @@
 	{
 		"name": "Stab Third Eye",
 		"prerequisites": ["Satori Race"],
-		"uniques": ["Invisible to non-adjacent units", "[-1] Range", "[-150]% Strength <when defending>", "[+110]% to Flank Attack bonuses", "[+89]% Strength <vs [Wounded] units>"]
+		"uniques": ["Invisible to non-adjacent units", "[-1] Range", "[-150]% Strength <when defending>", "[+110]% to Flank Attack bonuses", "[+150]% Strength <vs [Wounded] units>"]
 		"unitTypes": ["Sword", "Ranged", "Archery", "Gunpowder", "Mounted", "Armored", "Fighter", "Bomber", "Helicopter"],
 	},
 	{
