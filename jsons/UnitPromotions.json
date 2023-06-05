@@ -6,7 +6,7 @@
 	{
 		"name": "Stab Third Eye",
 		"prerequisites": ["Satori Race"],
-		"uniques": ["Automation is a primary action", "[+70]% Strength when attacking", "[-50]% Strength when defending"]
+		"uniques": ["Automation is a primary action", "[-1] Range"]
 		"unitTypes": ["Sword", "Ranged", "Archery", "Gunpowder", "Mounted", "Armored", "Fighter", "Bomber", "Helicopter"],
 	},
 	{
