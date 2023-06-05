@@ -6,7 +6,8 @@
 	{
 		"name": "Stab Third Eye",
 		"prerequisites": ["Satori Race"],
-		"uniques": ["Automation is a primary action", "Invisible to non-adjacent units", "[-1] Range", "[-300]% Strength <when defending>", "[+100]% to Flank Attack bonuses", "[+85]% Strength <vs [Wounded] units"]
+		"uniqueText": "Koishi!!! This unit becomes invisible to non-adjacent units, have a +100% Flank Attack bonus and a +85% Strength bonus against Wounded units. But, this unit have a -100% Strength when defending."
+		"uniques": ["Invisible to non-adjacent units", "[-1] Range", "[-300]% Strength <when defending>", "[+100]% to Flank Attack bonuses", "[+85]% Strength <vs [Wounded] units"]
 		"unitTypes": ["Sword", "Ranged", "Archery", "Gunpowder", "Mounted", "Armored", "Fighter", "Bomber", "Helicopter"],
 	},
 	{
